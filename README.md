@@ -1,12 +1,19 @@
 # CodersCamp-What-I-did
 Opis mojej pracy w zespole CodersCamp
 
+- [CodersCamp-What-I-did](#coderscamp-what-i-did)
+  - [Ogólny założenia CodersCamp:](#ogólny-założenia-coderscamp)
+  - [Projekty:](#projekty)
+    - [Projekt 1:](#projekt-1)
+    - [Projekt 2:](#projekt-2)
+  - [ZADANIA](#zadania)
+    - [Zadanie 1:](#zadanie-1)
 
 ---
 
 ## Ogólny założenia CodersCamp:
 Kilku osobowa praca w 6 osobowym zespole pod okiem mentora w kilku projektach.
-
+Cały CodersCamp trwał ok 6mc (listopad-kwiecień).
 Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 - HTML
 - CSS
@@ -22,6 +29,7 @@ Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 ---
 
 ## Projekty:
+
 ### Projekt 1:
 [Link do Porojektu.](https://github.com/PiotrWR/CodersCamp2020.Project.HTML-CSS.BusinessCard)
 Stworzenie samodzielne strony typu one-page przy wykorzystaniu HTML oraz CSS bez używania.
