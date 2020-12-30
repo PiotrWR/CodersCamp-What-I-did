@@ -8,12 +8,14 @@ Opis mojej pracy w zespole CodersCamp
     - [Projekt 2:](#projekt-2)
   - [ZADANIA](#zadania)
     - [Zadanie 1:](#zadanie-1)
+    - [Zadanie 2:](#zadanie-2)
+    - [Zadanie 3:](#zadanie-3)
 
 ---
 
 ## Ogólny założenia CodersCamp:
-Kilku osobowa praca w 6 osobowym zespole pod okiem mentora w kilku projektach.
-Cały CodersCamp trwał ok 6mc (listopad-kwiecień).
+Kilku osobowa praca w 6 osobowym zespole pod okiem mentora w kilku projektach.\
+Cały CodersCamp trwał ok 6mc (listopad-kwiecień).\
 Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 - HTML
 - CSS
@@ -31,11 +33,11 @@ Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 ## Projekty:
 
 ### Projekt 1:
-[Link do Porojektu.](https://github.com/PiotrWR/CodersCamp2020.Project.HTML-CSS.BusinessCard)
+[Link do Porojektu.](https://github.com/PiotrWR/CodersCamp2020.Project.HTML-CSS.BusinessCard)\
 Stworzenie samodzielne strony typu one-page przy wykorzystaniu HTML oraz CSS bez używania.
 
 ### Projekt 2:
-[Link do Porojektu.](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz)
+[Link do Porojektu.](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz)\
 Tu między innymi:
 - praktyczna praca w 6 osobowym zesole
 - praca w zespole z GIT oraz GitHub
@@ -49,9 +51,16 @@ Tu między innymi:
 
 ## ZADANIA
 ### Zadanie 1:
-Pisanie testów jednostkowych oraz prostego programu.
-Program wykonany w zespole 2 osobowym.
+Pisanie prostego programu pod testy.\
 [Link do projektu.](https://github.com/CodersCampClassroom/przykladowe-dzial-ii-wykryj-oszusta-PiotrWR)
+
+### Zadanie 2:
+Zaliczeniowe zadanie praktyczne. Czas na wykonanie zadania to 30 min. Uzyskałem maksymalną liczbę punktów.\
+[Link do projektu.](https://github.com/CodersCampClassroom/dzial-ii-plec-z-numeru-pesel-PiotrWR)
+
+### Zadanie 3:
+W 2 osobowym zespole pisanie testów jednostkowych oraz prostego programu.\
+[Link do projektu.](https://github.com/PiotrWR/medicine-dose-kata-js--our-solution)
 
 ---
 
