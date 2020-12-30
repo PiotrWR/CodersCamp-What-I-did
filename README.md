@@ -27,6 +27,7 @@ Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 - Node.js
 - pisanie testów (JEST.js)
 - różne biblioteki (Bootstrap)
+- instalowanie i obsługa pakietów
 
 ---
 
