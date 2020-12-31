@@ -47,6 +47,7 @@ Tu między innymi:
 - Stworzenie "navMenu"
 - Stworzenie całego ["Main view structure rendering driven by JavaScript"](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz/commit/440bcbd42f62958cf39a29d79507fd1e2a8aea31) Stworzone w SCSS oraz JS.
 - Dodanie automatycznego pre-commitowalnego formatowania kodu (pretty-quick i husky)
+- Dodanie Logo projectu
 
 ---
 
