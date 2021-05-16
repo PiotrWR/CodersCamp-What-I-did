@@ -53,16 +53,20 @@ Tu między innymi:
 
 ## ZADANIA
 ### Zadanie 1:
-Pisanie prostego programu pod testy.Czas na wykonanie zadania to 30 min. Uzyskałem maksymalną liczbę punktów. \
-[Link do projektu.](https://github.com/CodersCampClassroom/przykladowe-dzial-ii-wykryj-oszusta-PiotrWR)
-
-### Zadanie 2:
-Zaliczeniowe zadanie praktyczne. Czas na wykonanie zadania to 30 min. Uzyskałem maksymalną liczbę punktów.\
-[Link do projektu.](https://github.com/CodersCampClassroom/dzial-ii-plec-z-numeru-pesel-PiotrWR)
-
-### Zadanie 3:
 W 2 osobowym zespole pisanie testów jednostkowych oraz prostego programu.\
 [Link do projektu.](https://github.com/PiotrWR/medicine-dose-kata-js--our-solution)
+
+### Zadanie 2:
+Pisanie prostego programu pod testy.Czas na wykonanie zadania to 35 min. Uzyskałem maksymalną liczbę punktów. \
+[Link do projektu.](https://github.com/CodersCampClassroom/przykladowe-dzial-ii-wykryj-oszusta-PiotrWR)
+
+### Zadanie 3:
+Rozwiązanie zadania praktyczngo. Polegało ono na operacjach na numerach pesel. Czas na wykonanie zadania to 30 min. Uzyskałem maksymalną liczbę punktów.\
+[Link do projektu.](https://github.com/CodersCampClassroom/dzial-ii-plec-z-numeru-pesel-PiotrWR)
+
+### Zadanie 4:
+Zaliczeniowe zadanie praktyczne. Na podstawie pozycji dwóch królowych na szachownicy, musisiałem zwrócić informację, czy możliwe jest wykonanie przez nich ataku nawzajem. Czas na wykonanie zadania to 60 min. Uzyskałem maksymalną liczbę punktów.\
+[Link do projektu.](https://github.com/CodersCampClassroom/dzial-iii-atakujace-krolowe-PiotrWR)
 
 ---
 
