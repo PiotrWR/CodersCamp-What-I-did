@@ -70,7 +70,7 @@ Tu między innymi:
 
 ### Projekt 4:
 #### (TourDeFoos in React.js and Node.js)
-[Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.TypeScript.Chess)\
+[Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.FullStack-Node-React.TableSoccerTournaments)\
 Tu między innymi:
 - Backend:
   - Node.js
