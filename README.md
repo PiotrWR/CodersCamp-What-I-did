@@ -6,10 +6,14 @@ Opis mojej pracy w zespole CodersCamp
   - [Projekty:](#projekty)
     - [Projekt 1:](#projekt-1)
     - [Projekt 2:](#projekt-2)
+    - [Projekt 3:](#projekt-3)
+    - [Projekt 4:](#projekt-4)
+    - [Projekt 5:](#projekt-5)
   - [ZADANIA](#zadania)
     - [Zadanie 1:](#zadanie-1)
     - [Zadanie 2:](#zadanie-2)
     - [Zadanie 3:](#zadanie-3)
+    - [Zadanie 4:](#zadanie-4)
 
 ---
 
@@ -35,7 +39,8 @@ Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 
 ### Projekt 1:
 [Link do Porojektu.](https://github.com/PiotrWR/CodersCamp2020.Project.HTML-CSS.BusinessCard)\
-Stworzenie samodzielne strony typu one-page przy wykorzystaniu HTML oraz CSS bez używania.
+Stworzenie samodzielne strony typu one-page przy wykorzystaniu HTML oraz CSS bez używania JS.
+W projekcie odwzorowałem orginalną stronę 1:1 z przykladu podanego przez organizatorów. Strona odwzorowana jest dla szerokości 1440px. W projekcie dodaałem również RWD. 
 
 ### Projekt 2:
 [Link do Porojektu.](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz)\
@@ -48,7 +53,20 @@ Tu między innymi:
 - Stworzenie całego ["Main view structure rendering driven by JavaScript"](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz/commit/440bcbd42f62958cf39a29d79507fd1e2a8aea31) Stworzone w SCSS oraz JS.
 - Dodanie automatycznego pre-commitowalnego formatowania kodu (pretty-quick i husky)
 - Dodanie Logo projectu
+- oraz wiele innych
 
+### Projekt 3:
+[Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.TypeScript.Chess)\
+Tu między innymi:
+- praktyczna praca w 6 osobowym zesole
+- praca w zespole z GIT oraz GitHub
+- Stworzenie struktury plików SASS.
+- Zainstalowanie "prettierrc"
+- Stworzenie "navMenu"
+- Stworzenie całego ["Main view structure rendering driven by JavaScript"](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz/commit/440bcbd42f62958cf39a29d79507fd1e2a8aea31) Stworzone w SCSS oraz JS.
+- Dodanie automatycznego pre-commitowalnego formatowania kodu (pretty-quick i husky)
+- Dodanie Logo projectu
+- Wiele innych
 ---
 
 ## ZADANIA
