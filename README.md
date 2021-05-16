@@ -8,6 +8,8 @@ Opis mojej pracy w zespole CodersCamp
     - [Projekt 2:](#projekt-2)
     - [Projekt 3:](#projekt-3)
     - [Projekt 4:](#projekt-4)
+  - [Hackathon](#zadania)
+    - 24-godzinny hackaton. Podium! Zajęliśmy drużyną 3 miejsce!
   - [ZADANIA](#zadania)
     - [Zadanie 1:](#zadanie-1)
     - [Zadanie 2:](#zadanie-2)
@@ -61,7 +63,7 @@ Tu między innymi:
 #### (Chess in TypeScript)
 [Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.TypeScript.Chess)\
 Tu między innymi:
-- praktyczna praca w 6 osobowym zesole
+- praktyczna praca w 5 osobowym zesole
 - praca w zespole z GIT oraz GitHub
 - TypeScript
 - pisanie algorytów
@@ -110,6 +112,10 @@ Our backend application follows the TDD approach and is almost fully covered by 
   - EasyRetro
 We used to daily every day and remote-meeting every week!
 
+## Hackathon:
+24-godzinny hackaton. Podium! Zajęliśmy drużyną 3 miejsce!
+Hackaton odbył się na zakończenie CodersCamp.
+[Link do projektu.](https://github.com/PiotrRynio/CodersCamp2020.Hackathon)
 
 ## ZADANIA
 ### Zadanie 1:
