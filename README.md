@@ -53,7 +53,7 @@ Tu między innymi:
 
 ## ZADANIA
 ### Zadanie 1:
-Pisanie prostego programu pod testy.\
+Pisanie prostego programu pod testy.Czas na wykonanie zadania to 30 min. Uzyskałem maksymalną liczbę punktów.
 [Link do projektu.](https://github.com/CodersCampClassroom/przykladowe-dzial-ii-wykryj-oszusta-PiotrWR)
 
 ### Zadanie 2:
