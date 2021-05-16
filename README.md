@@ -8,7 +8,6 @@ Opis mojej pracy w zespole CodersCamp
     - [Projekt 2:](#projekt-2)
     - [Projekt 3:](#projekt-3)
     - [Projekt 4:](#projekt-4)
-    - [Projekt 5:](#projekt-5)
   - [ZADANIA](#zadania)
     - [Zadanie 1:](#zadanie-1)
     - [Zadanie 2:](#zadanie-2)
@@ -37,15 +36,18 @@ Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 
 ## Projekty:
 
-### Projekt 1:
+### Projekt 1
+#### (BusinessCard in HTML & CSS)
 [Link do Porojektu.](https://github.com/PiotrWR/CodersCamp2020.Project.HTML-CSS.BusinessCard)\
 Stworzenie samodzielne strony typu one-page przy wykorzystaniu HTML oraz CSS bez używania JS.
 W projekcie odwzorowałem orginalną stronę 1:1 z przykladu podanego przez organizatorów. Strona odwzorowana jest dla szerokości 1440px. W projekcie dodaałem również RWD. 
 
-### Projekt 2:
+### Projekt 2 
+#### (Star Wars Quiz in JavaScript)
 [Link do Porojektu.](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz)\
 Tu między innymi:
 - praktyczna praca w 6 osobowym zesole
+- JavaScript
 - praca w zespole z GIT oraz GitHub
 - Stworzenie struktury plików SASS.
 - Zainstalowanie "prettierrc"
@@ -56,18 +58,58 @@ Tu między innymi:
 - oraz wiele innych
 
 ### Projekt 3:
+#### (Chess in TypeScript)
 [Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.TypeScript.Chess)\
 Tu między innymi:
 - praktyczna praca w 6 osobowym zesole
 - praca w zespole z GIT oraz GitHub
-- Stworzenie struktury plików SASS.
-- Zainstalowanie "prettierrc"
-- Stworzenie "navMenu"
-- Stworzenie całego ["Main view structure rendering driven by JavaScript"](https://github.com/nowakprojects/CodersCamp2020.Project.JavaScript.StarWarsQuiz/commit/440bcbd42f62958cf39a29d79507fd1e2a8aea31) Stworzone w SCSS oraz JS.
-- Dodanie automatycznego pre-commitowalnego formatowania kodu (pretty-quick i husky)
-- Dodanie Logo projectu
-- Wiele innych
----
+- TypeScript
+- pisanie algorytów
+- stworzenie silnika szachów
+- architektura Model–view–presenter (MVP)
+
+### Projekt 4:
+#### (TourDeFoos in React.js and Node.js)
+[Link do Porojektu.](https://github.com/PiotrRynio/CodersCamp2020.Project.TypeScript.Chess)\
+Tu między innymi:
+- Backend:
+  - Node.js
+  - Express
+  - Database: MongoDB / in memory save
+  - TypeScript
+  - Docker
+  - Nodemailer
+  - Jest
+  - MailHog
+  - Stryker
+  - Heroku
+  - Swagger
+  - Docker
+Our backend application follows the TDD approach and is almost fully covered by tests. The architecture has been designed according to the DDD (Domain-driven design).
+
+- Frontend:
+  - React
+  - React-DOM
+  - Router
+  - Hooks (useState, useEffect, useContext,useHistory)
+  - Material-UI
+  - Axios
+  - The architecture has been designed according to the Atomic Design approach. Application follows th Mobile First Design.
+
+- Other:
+  - Code Review in every Pull Request (and 2 Approve to merge)
+  - Event Storming & Event Modeling
+  - Domain-Driven Design (DDD)
+  - Git
+  - GitHub
+  - IntelliJ
+  - Miro
+  - Figma
+  - Swagger
+  - Docker
+  - EasyRetro
+We used to daily every day and remote-meeting every week!
+
 
 ## ZADANIA
 ### Zadanie 1:
