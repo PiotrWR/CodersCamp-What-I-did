@@ -20,19 +20,44 @@ Opis mojej pracy w zespole CodersCamp
 
 ## Ogólny założenia CodersCamp:
 Kilku osobowa praca w 6 osobowym zespole pod okiem mentora w kilku projektach.\
-Cały CodersCamp trwał ok 6mc (listopad-kwiecień).\
+Cały CodersCamp trwał prawie 6mc (listopad-kwiecień).\
 Zdobywanie wiedzy i doświadczenia z różnych obszarów web-developingu:
 - HTML
 - CSS
 - SASS, SCSS
-- metodologia BEM
+- metodologia BEM (Block Element Modifier)
+- Atomic Design
 - JS
 - TypeScript 
 - React.js
+- React-DOM
+- Router
+- Hooks (useState, useEffect, useContext,useHistory)
+- pisanie testów (JEST.js Testing)
+- DDT (data driven testing)
 - Node.js
-- pisanie testów (JEST.js)
+- Express.js
+- MongoDB
+- Axios
+- Material-UI
+- Figma
+- Miro
+- Pair programming
+- Git
+- GitHub
+- GitHub Actions
+- Docker
+- Swagger
+- MCV
+- Hexagonal Architecture
+- Scrum
+- Event Storming
+- Event Modeling
+- DDD Domain-Driven Design
 - różne biblioteki (Bootstrap)
 - instalowanie i obsługa pakietów
+- Visual Studio Code
+- IntelliJ IDEA
 
 ---
 
